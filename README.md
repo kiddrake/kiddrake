@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiddrake
-- 👀 I’m interested in efficiency in computing!
+- 👀 I’m interested in computational efficiency!
 - 🌱 I’m currently learning Computer Engineering at Purdue
 - 📫 Email: hyeonwoow@gmail.com
 
